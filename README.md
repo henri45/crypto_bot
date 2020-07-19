@@ -29,7 +29,7 @@ One can read on this graph: the balance of a bank account starting at 10 000€ 
 
 The histogram below represents how long it takes to sell ‘coins’ by targeting a profit of 5%. 
 
-![alt text](https://github.com/henri45/crypto_bot/blob/master/screenshot/hist_days_btc_5%.png)
+![alt text](https://github.com/henri45/crypto_bot/blob/master/screenshot/hist_days_btc_5.png)
 
 The histogram below represents how long it takes to sell ‘coins’ by targeting a profit of 10%.
 
