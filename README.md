@@ -9,7 +9,7 @@ An assumption can be made that whatever price ‘coins’ are bought, if one wai
 
 The graph below represents the evolution of the market capitalisation and the volume of trading. Note: market capitalisation = number of coins * price of the coins.
 
-![alt text](https://github.com/henri45/crypto_bot/blob/master/Screen/market_capitalisation.png)
+![alt text](https://github.com/henri45/crypto_bot/blob/master/screenshot/market_capitalisation.png)
 
 To prove my hypothesis, I created an algorithm to help me analyse how long it would take to gain a profit of y%. My goal was to find the optimal y. 
 
@@ -25,55 +25,55 @@ In order to compare the results, I chose 29 March 2020 as the date in which to s
 
 One can read on this graph: the balance of a bank account starting at 10 000€ which buys BTC for 1000€ per month, 222€ per week, from 1 January 2019 to 1 May 2020. The ‘coins’ were automatically sold as soon as a profit of 5, 10 or 15% was made. 
 
-![alt text](https://github.com/henri45/crypto_bot/blob/master/Screen/plot_strategies_btc.png)
+![alt text](https://github.com/henri45/crypto_bot/blob/master/screenshot/plot_strategies_btc.png)
 
 The histogram below represents how long it takes to sell ‘coins’ by targeting a profit of 5%. 
 
-![alt text](https://github.com/henri45/crypto_bot/blob/master/Screen/hist_days_btc_5%.png)
+![alt text](https://github.com/henri45/crypto_bot/blob/master/screenshot/hist_days_btc_5%.png)
 
 The histogram below represents how long it takes to sell ‘coins’ by targeting a profit of 10%.
 
-![alt text](https://github.com/henri45/crypto_bot/blob/master/Screen/hist_days_btc_10%.png)
+![alt text](https://github.com/henri45/crypto_bot/blob/master/screenshot/hist_days_btc_10%.png)
 
 The histogram below represents how long it takes to sell ‘coins’ by targeting a profit of 15%.
 
-![alt text](https://github.com/henri45/crypto_bot/blob/master/Screen/hist_days_btc_15%.png)
+![alt text](https://github.com/henri45/crypto_bot/blob/master/screenshot/hist_days_btc_15%.png)
 
 ## Ethereum
 
 One can read on this graph: the balance of a bank account starting at 10 000€ which buys BTC for 1000€ per month, 222€ per week, from 1 January 2019 to 1 May 2020. The ‘coins’ were automatically sold as soon as a profit of 5, 10 or 15% was made. 
 
-![alt text](https://github.com/henri45/crypto_bot/blob/master/Screen/plot_strategies_eth.png)
+![alt text](https://github.com/henri45/crypto_bot/blob/master/screenshot/plot_strategies_eth.png)
 
 The histogram below represents how long it takes to sell ‘coins’ by targeting a profit of 5%. 
 
-![alt text](https://github.com/henri45/crypto_bot/blob/master/Screen/hist_days_eth_5%.png)
+![alt text](https://github.com/henri45/crypto_bot/blob/master/screenshot/hist_days_eth_5%.png)
 
 The histogram below represents how long it takes to sell ‘coins’ by targeting a profit of 10%.
 
-![alt text](https://github.com/henri45/crypto_bot/blob/master/Screen/hist_days_eth_10%.png)
+![alt text](https://github.com/henri45/crypto_bot/blob/master/screenshot/hist_days_eth_10%.png)
 
 The histogram below represents how long it takes to sell ‘coins’ by targeting a profit of 15%.
 
-![alt text](https://github.com/henri45/crypto_bot/blob/master/Screen/hist_days_eth_15%.png)
+![alt text](https://github.com/henri45/crypto_bot/blob/master/screenshot/hist_days_eth_15%.png)
 
 ## Litecoin
 
 One can read on this graph: the balance of a bank account starting at 10 000€ which buys BTC for 1000€ per month, 222€ per week, from 1 January 2019 to 1 May 2020. The ‘coins’ were automatically sold as soon as a profit of 5, 10 or 15% was made. 
 
-![alt text](https://github.com/henri45/crypto_bot/blob/master/Screen/plot_strategies_ltc.png)
+![alt text](https://github.com/henri45/crypto_bot/blob/master/screenshot/plot_strategies_ltc.png)
 
 The histogram below represents how long it takes to sell ‘coins’ by targeting a profit of 5%. 
 
-![alt text](https://github.com/henri45/crypto_bot/blob/master/Screen/hist_days_ltc_5%.png)
+![alt text](https://github.com/henri45/crypto_bot/blob/master/screenshot/hist_days_ltc_5%.png)
 
 The histogram below represents how long it takes to sell ‘coins’ by targeting a profit of 10%.
 
-![alt text](https://github.com/henri45/crypto_bot/blob/master/Screen/hist_days_ltc_10%.png)
+![alt text](https://github.com/henri45/crypto_bot/blob/master/screenshot/hist_days_ltc_10%.png)
 
 The histogram below represents how long it takes to sell ‘coins’ by targeting a profit of 15%.
 
-![alt text](https://github.com/henri45/crypto_bot/blob/master/Screen/hist_days_ltc_15%.png)
+![alt text](https://github.com/henri45/crypto_bot/blob/master/screenshotshot/hist_days_ltc_15%.png)
 
 The result are close in proximity to each other whatever cryptocurrency was used. This is due to the price of BTC, ETH and LTC being highly correlated. This simple strategy should be profitable in the long run, assuming that the price of the cryptocurrency will always hit a threshold which has been hit in the past. Although as depicted in the histogram, this might take a far amount of time.
 
