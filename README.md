@@ -73,7 +73,7 @@ The histogram below represents how long it takes to sell ‘coins’ by targetin
 
 The histogram below represents how long it takes to sell ‘coins’ by targeting a profit of 15%.
 
-![alt text](https://github.com/henri45/crypto_bot/blob/master/screenshotshot/hist_days_ltc_15.png)
+![alt text](https://github.com/henri45/crypto_bot/blob/master/screenshot/hist_days_ltc_15.png)
 
 The result are close in proximity to each other whatever cryptocurrency was used. This is due to the price of BTC, ETH and LTC being highly correlated. This simple strategy should be profitable in the long run, assuming that the price of the cryptocurrency will always hit a threshold which has been hit in the past. Although as depicted in the histogram, this might take a far amount of time.
 
